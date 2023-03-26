@@ -1,0 +1,23 @@
+body {
+    background-image: url(flower.jpg);
+    background-size: 100% 100%;
+}
+
+
+
+.title-text {
+    text-align: center;
+    color: green;
+}
+
+
+
+fieldset {
+    background-color: lightblue;
+    color: black;
+    width: 60%;
+    height: 120%;
+    margin-left: 20%;
+    border: none;
+    opacity: 0.6;
+}
