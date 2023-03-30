@@ -20,4 +20,11 @@ fieldset {
     margin-left: 20%;
     border: none;
     opacity: 0.6;
+	 border-radius: 10px;
+	 margin-top: 40px;
+	 margin-bottom: 40px;
 }
+
+input, select, textarea {border-radius: 10px;}
+
+
