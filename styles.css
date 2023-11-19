@@ -29,7 +29,7 @@ fieldset {
 }
 
 
-@media only screen and (max-width: 600px)  {
+@media only screen and (max-width: 600px) {
     fieldset {
         font-size: 148%;
         width: 90%;
