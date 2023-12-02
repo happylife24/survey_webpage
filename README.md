@@ -1,2 +1,2 @@
 # Survey Form
-Link: https://2021sky.github.io/survey_form/
+Link: https://happylife24.github.io/survey_form/
