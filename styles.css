@@ -1,27 +1,27 @@
 body {
-    background-image: url(flower.jpg);
-    background-size: 130% 100%;
+    background-image: linear-gradient(45deg, rgb(238, 73, 101), rgb(241, 122, 142), rgb(240, 222, 222));
+    background-size: 150% auto;
 }
 
 
 .title-text {
     text-align: center;
     font-family: papyrus;
-    color: green;
+    color: rgb(6, 110, 170);
 }
 
 
 fieldset {
-    background-color: lightblue;
+    background-color: rgb(188, 161, 242);
     color: black;
     font-size: 148%;
     font-family: papyrus;
     font-weight: 1000;
     width: 51%;
     height: 120%;
-    margin-left: 23%;
+    margin-left: 21%;
     padding-left: 3%;
-    border: none;
+    border: 20px solid rgb(188, 161, 242);
     opacity: 0.75;
 	border-radius: 3%;
 	margin-top: 40px;
@@ -31,10 +31,10 @@ fieldset {
 
 @media only screen and (max-width: 600px) {
     fieldset {
-        font-size: 148%;
-        width: 90%;
+        font-size: 5vw;
+        width: 75%;
         margin-left: 1.5%;
         padding-left: 3%;
-        border-radius: 4%;
+        border-radius: 0;
     } 
 }
