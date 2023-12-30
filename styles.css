@@ -6,25 +6,29 @@ body {
 
 .title-text {
     text-align: center;
-    font-family: papyrus;
-    color: rgb(6, 110, 170);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(11, 110, 168);
 }
 
 
 fieldset {
     background-color: rgb(188, 161, 242);
     color: black;
-    font-size: 148%;
-    font-family: papyrus;
-    font-weight: 1000;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
     width: 53%;
-    margin-left: 22%;
-    padding-left: 2%;
+    margin-left: 19%;
+    padding-left: 3%;
     border: 20px solid rgb(188, 161, 242);
     opacity: 0.75;
 	border-radius: 3%;
-	margin-top: 40px;
-	margin-bottom: 40px;
+	margin-top: 4%;
+	margin-bottom: 3%;
+}
+
+#number {
+    width: 20%;
 }
 
 
@@ -32,7 +36,8 @@ fieldset {
     fieldset {
         font-size: 5vw;
         width: 75%;
-        margin-left: 5%;
+        margin-left: 6%;
+        padding-left: 0;
         border-radius: 0;
     } 
 }
